@@ -47,7 +47,7 @@ Check_LNMPConf
 
 clear
 echo "+------------------------------------------------------------------------+"
-echo "|          LNMP V${LNMP_Ver} for ${DISTRO} Linux Server, Written by Licess          |"
+echo "|         LNMP V${LNMP_Ver} for ${DISTRO} Linux Server, Written by Licess|"
 echo "+------------------------------------------------------------------------+"
 echo "|        A tool to auto-compile & install LNMP/LNMPA/LAMP on Linux       |"
 echo "+------------------------------------------------------------------------+"
